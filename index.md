@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+<img src="/assets/img/test.jpeg" alt="Test image 1" width="320">
+
+
 # Hi, I'm Nate!
 [Home](/) | [Projects](/projects/) | [Resume](/resume/)
 
