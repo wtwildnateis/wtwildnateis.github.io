@@ -1,9 +1,4 @@
 title: "Nathan Wallace Porfolio"
 description: "Developer portfolio site"
 theme: jekyll-theme-slate
-
-header_pages:
-  - projects.md
-  - resume.md
-
 author: "Nathan Wallace"

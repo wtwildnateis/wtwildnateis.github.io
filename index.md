@@ -1,29 +1,22 @@
 ---
-layout: none
+layout: default
 title: Home
 ---
 
-<!doctype html>
-<html lang="en">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Home</title>
+# Hi, I'm Nathan!
+[Home](/) | [Projects](/projects/) | [Resume](/resume/)
 
-<nav>
-  <a href="/">Home</a> |
-  <a href="/projects/">Projects</a> |
-  <a href="/resume/">Resume</a>
-</nav>
-
-<h1>Hi, I'm Nate!</h1>
-<span class=fullname>Nathan Wallace</span>
 <p>I’m a sterile-processing-specialist-turned-developer focused on React, Java, and SQL. 
 I’m seeking a junior/full-stack role where I can ship features and grow with a team.</p>
 
-<h2>Contact</h2>
-<ul>
-  <li>Email: <a href="mailto:wtwildnateis@gmail.com">WTWILDNATEIS@GMAIL.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/nathan-w-wallace/">NATHAN-W-WALLACE</a></li>
-  <li>GitHub: <a href="https://github.com/wtwildnateis">WTWILDNATEIS</a></li>
-</ul>
-</html>
+## Brand Images
+<p>
+  <img src="/assets/img/test.jpg" alt="test image 1" width="320">
+  <img src="/assets/img/test.jpg" alt="test image 2" width="320">
+  <img src="/assets/img/test.jpg" alt="test image 3" width="320">
+</p>
+
+## Contact
+- Email: [wtwildnateis@gmail.com](mailto:wtwildnateis@gmail.com)
+- LinkedIn: [nathan-w-wallace](https://www.linkedin.com/in/nathan-w-wallace/)
+- GitHub: [wtwildnateis](https://github.com/wtwildnateis)

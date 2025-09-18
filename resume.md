@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: Resume
 permalink: /resume/
 ---
 
+[Home](/) | [Projects](/projects/) | [Resume](/resume/)
+
 ## Resume & Achievements
-[Download my resume (PDF)](/Resume.pdf)
+**Download:** [Resume (PDF)](/Resume.pdf)
 
